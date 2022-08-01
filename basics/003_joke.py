@@ -1,0 +1,1 @@
+print('A gummy bear! :) ') if input('What do you call a bear with no teeth?') != '' else print('You even not try')
